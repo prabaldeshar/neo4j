@@ -49,6 +49,7 @@ For example, you have a simple graph as shown in the image below. How would you 
 
 
 ![](./attachments/images/cypher_example.excalidraw.svg)
+</br>
 `Harry is friends with Sally. Harry works in TAI.`
 
 ### Representing nodes in Cypher
